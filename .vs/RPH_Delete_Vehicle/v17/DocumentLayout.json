@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Script Projects\\Delete_Vehicle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C916FCB-8530-4CA2-A7D7-B7B3221063F4}|RPH_Delete_Vehicle\\RPH_Delete_Vehicle.csproj|d:\\script projects\\delete_vehicle\\rph_delete_vehicle\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C916FCB-8530-4CA2-A7D7-B7B3221063F4}|RPH_Delete_Vehicle\\RPH_Delete_Vehicle.csproj|solutionrelative:rph_delete_vehicle\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C916FCB-8530-4CA2-A7D7-B7B3221063F4}|RPH_Delete_Vehicle\\RPH_Delete_Vehicle.csproj|D:\\Script Projects\\Delete_Vehicle\\rph_delete_vehicle\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C916FCB-8530-4CA2-A7D7-B7B3221063F4}|RPH_Delete_Vehicle\\RPH_Delete_Vehicle.csproj|solutionrelative:rph_delete_vehicle\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\Script Projects\\Delete_Vehicle\\RPH_Delete_Vehicle\\Main.cs",
+              "RelativeDocumentMoniker": "RPH_Delete_Vehicle\\Main.cs",
+              "ToolTip": "D:\\Script Projects\\Delete_Vehicle\\RPH_Delete_Vehicle\\Main.cs",
+              "RelativeToolTip": "RPH_Delete_Vehicle\\Main.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAIwHsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T03:48:40.296Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Script Projects\\Delete_Vehicle\\RPH_Delete_Vehicle\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "RPH_Delete_Vehicle\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Script Projects\\Delete_Vehicle\\RPH_Delete_Vehicle\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "RPH_Delete_Vehicle\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T03:48:40.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

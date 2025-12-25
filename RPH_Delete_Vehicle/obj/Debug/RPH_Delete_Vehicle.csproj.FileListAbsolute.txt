@@ -24,3 +24,12 @@ D:\GitHubRepos\Delete_Vehicle\RPH_Delete_Vehicle\obj\Debug\RPH_Delete_Vehicle.cs
 D:\GitHubRepos\Delete_Vehicle\RPH_Delete_Vehicle\obj\Debug\RPH_Delete_Vehicle.csproj.CopyComplete
 D:\GitHubRepos\Delete_Vehicle\RPH_Delete_Vehicle\obj\Debug\RPH_Delete_Vehicle.dll
 D:\GitHubRepos\Delete_Vehicle\RPH_Delete_Vehicle\obj\Debug\RPH_Delete_Vehicle.pdb
+D:\Script Projects\Delete_Vehicle\RPH_Delete_Vehicle\bin\Debug\RPH_Delete_Vehicle.dll
+D:\Script Projects\Delete_Vehicle\RPH_Delete_Vehicle\bin\Debug\RPH_Delete_Vehicle.pdb
+D:\Script Projects\Delete_Vehicle\RPH_Delete_Vehicle\bin\Debug\RagePluginHook.dll
+D:\Script Projects\Delete_Vehicle\RPH_Delete_Vehicle\bin\Debug\RagePluginHook.xml
+D:\Script Projects\Delete_Vehicle\RPH_Delete_Vehicle\obj\Debug\RPH_Delete_Vehicle.csproj.AssemblyReference.cache
+D:\Script Projects\Delete_Vehicle\RPH_Delete_Vehicle\obj\Debug\RPH_Delete_Vehicle.csproj.CoreCompileInputs.cache
+D:\Script Projects\Delete_Vehicle\RPH_Delete_Vehicle\obj\Debug\RPH_Dele.948AC08B.Up2Date
+D:\Script Projects\Delete_Vehicle\RPH_Delete_Vehicle\obj\Debug\RPH_Delete_Vehicle.dll
+D:\Script Projects\Delete_Vehicle\RPH_Delete_Vehicle\obj\Debug\RPH_Delete_Vehicle.pdb
